@@ -58,5 +58,5 @@ docker run -it --env-file token.env personageneratorbot
 
 ## Credits
 - https://pypi.org/project/pyTelegramBotAPI/
-- https://api.qrserver.com/v1/create-qr-code/
+- https://randomuser.me/api/
 
